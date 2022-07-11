@@ -1,2 +1,3 @@
 This repository contains collaborative printf projects.
-_printf is a custom implementation of the C programming function
+
+_printf is a custom implementation of the C programming function printf.
