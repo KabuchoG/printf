@@ -1,3 +1,4 @@
-This repository contains collaborative printf projects.
+This repository contains collaborative printf projects by Serena Muriuki and George Kabucho
 
 _printf is a custom implementation of the C programming function printf.
+
